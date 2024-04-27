@@ -1,1 +1,2 @@
-this is main file to check the conflicts from branch1. but it is now in branch3.
+
+Loren ispum, loren ispum, loren ispum, loren ispum this would be final.
